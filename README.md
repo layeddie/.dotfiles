@@ -16,7 +16,11 @@
 
 ## Add links to videos and articles
 https://www.youtube.com/@jakewies/videos
+
 https://www.youtube.com/watch?v=e4ZF5lElLpE&list=PL1C97G3GhlHdANMFUIXTcFr14R7b7EBj9&index=2
+
 https://www.jakewiesler.com/blog/getting-started-with-vim
+
 https://www.youtube.com/watch?v=70YMTHAZyy4&t=207s
+
 https://www.jakewiesler.com/blog
